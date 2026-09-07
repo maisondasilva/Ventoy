@@ -11,7 +11,7 @@ m/Ctrl+m - Checksum dos arquivos de imagem (md5/sha1/sha256/sha512)
 d/Ctrl+d - Modo Memdisk (So pros pequenos WinPE/LiveCD ISO/IMG)
 w/Ctrl+w - Modo WIMBOOT (So pra arquivos ISO do Windows/WinPE)
 r/Ctrl+r - Modo Grub2 (So pra algumas distros do Linux)
-i/Ctrl+i - Modo Compativel (Só pra debugging)
+i/Ctrl+i - Modo Compativel (So pra debugging)
 u/Ctrl+u - Carregar o driver EFI da ISO (So pra debugging, nao pode ser usado oficialmente)
 
 
