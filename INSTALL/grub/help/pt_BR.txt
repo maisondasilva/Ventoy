@@ -1,7 +1,7 @@
  L - Selecao de Idiomas
 F1 - Exibir informacoes de ajuda
 F2 - Explorar e inicializar os arquivos no disco local
-F3 - Trocar o modo do menu entre Visualização em Arvore <-> Visualização em Lista
+F3 - Trocar o modo do menu entre Visualizacao em Arvore <-> Visualizacao em Lista
 F4 - Inicializar o Windows/Linux no disco local
 F5 - Utilitarios
 F6 - Carregar o Menu Personalizado do Grub2
